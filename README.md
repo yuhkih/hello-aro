@@ -1,4 +1,4 @@
-# hello-kubernetes
+# hello-aro          
 Nginx test container based on UBI8
 
 ## How to build
